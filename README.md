@@ -2,6 +2,9 @@
 
 Everything right here or in the config is the minimal requirements that we need to bundle a TypeScript, HTML, and CSS frontend.
 
+- Node.js v16.13
+- NPM v8.1.1
+
 ### Installation
 
 Everything is already in the `package.json` so just `npm install` and skip to the 4th step.
